@@ -1,0 +1,23 @@
+name: hgppdx
+favicon: null
+layout_spectrum: 0.36459964816458523
+typography_spectrum: 0.9654560808558017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.024803934851661325
+  lightness: 0.2426598584279418
+  saturation: 0.07294665928930044
+  rhythmicContrast: 0.49715048377402127
+purpose: []
