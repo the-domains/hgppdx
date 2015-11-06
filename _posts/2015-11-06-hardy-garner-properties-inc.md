@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-06T17:42:33.761Z'
-dateModified: '2015-11-06T17:42:28.561Z'
+datePublished: '2015-11-06T21:00:22.012Z'
+dateModified: '2015-11-06T20:59:45.949Z'
 title: Hardy Garner Properties Inc.
 sourcePath: _posts/2015-11-06-hardy-garner-properties-inc.md
 published: true
@@ -18,7 +18,7 @@ publisher:
   url: null
   favicon: null
 url: hardy-garner-properties-inc/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Hardy Garner Properties Inc.
