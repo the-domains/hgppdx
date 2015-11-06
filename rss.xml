@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hgppdx]]></title>
+        <description><![CDATA[hgppdx]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 Nov 2015 17:42:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hardy Garner Properties Inc.]]></title>
+            <description><![CDATA[<article><h1>Hardy Garner Properties Inc.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e46b24e-d8e2-4de2-93eb-0ec872eff2e6.jpg"></article>]]></description>
+            <link>undefinedhardy-garner-properties-inc/index.html</link>
+            <guid isPermaLink="false">cd22bd7b-c9ad-43b6-9d03-949a9b36e42c</guid>
+            <pubDate>Fri, 06 Nov 2015 17:42:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
