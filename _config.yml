@@ -1,6 +1,6 @@
 name: hgppdx
 favicon: null
-layout_spectrum: 0.36459964816458523
+layout_spectrum: 0.48915
 typography_spectrum: 0.9654560808558017
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#dde0df'
-    - '#6a6960'
-    - '#222122'
-    - '#908f86'
-    - '#b1b9bc'
+    - '#95abc3'
+    - '#dfdccb'
+    - '#3c4043'
+    - '#12130e'
+    - '#c14d5a'
   brandStrength: 0.024803934851661325
   lightness: 0.2426598584279418
   saturation: 0.07294665928930044
