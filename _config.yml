@@ -1,7 +1,7 @@
 name: hgppdx
 favicon: null
 layout_spectrum: 0.48915
-typography_spectrum: 0.9654560808558017
+typography_spectrum: 0.9287
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3c4043'
     - '#12130e'
     - '#c14d5a'
-  brandStrength: 0.024803934851661325
+  brandStrength: 0.25
   lightness: 0.2426598584279418
   saturation: 0.07294665928930044
   rhythmicContrast: 0.49715048377402127
